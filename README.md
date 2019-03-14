@@ -1,4 +1,4 @@
-# Monkey Programming Languages
+# Monkey Programming Language
 C# implementation of the Monkey language, based on Thorsten Ball's ["Writing An Interpreter In Go"](https://interpreterbook.com/)
 
 ## Technology Stack
